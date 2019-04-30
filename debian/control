@@ -1,0 +1,14 @@
+Source: pardus-gnome-settings
+Section: gnome
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://pardus.org.tr
+
+Package: pardus-gnome-settings
+Architecture: all
+Pre-Depends: ${misc:Pre-Depends}, pardus-x11-settings
+Depends: ${misc:Depends}, pardus-icon-theme
+Description: default settings for the Pardus GNOME desktop
+ This package contains the default settings used by Pardus.

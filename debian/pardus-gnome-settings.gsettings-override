@@ -1,0 +1,22 @@
+[org.gnome.shell]
+favorite-apps = [ 'firefox-esr.desktop', 'thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
+enabled-extensions = [ 'desktop-icons@csoriano', 'dash-to-panel@jderose9.github.com', 'remove-dropdown-arrows@mpdeimos.com' ]
+
+[org.gnome.desktop.background]
+show-desktop-icons = true
+
+[org.gnome.desktop.interface]
+gtk-theme = 'Adwaita-dark'
+icon-theme = 'pardus-dark'
+
+[org.gnome.desktop.wm.preferences]
+button-layout = ':minimize,maximize,close'
+
+[org.gnome.shell.extensions.desktop-icons]
+icon-size = 'small'
+
+[org.gnome.shell.extensions.dash-to-panel]
+panel-size = 41
+appicon-margin = 0
+appicon-padding = 0
+
