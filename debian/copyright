@@ -1,15 +1,10 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Xubuntu Default Settings
-Upstream-Contact: Xubuntu Team <xubuntu-devel@lists.ubuntu.com>
+Upstream-Name: Pardus Gnome Settings
+Upstream-Contact: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
 
 Files: *
-Copyright: 2016, Cihangir Akturk <cihangir@pardus.org.tr>
-           2016, Yusuf Duzgun <yusuf.duzgun@pardus.org.tr>
-           2013-2014, Sean Davis <bluesabre@ubuntu.com>
-           2007-2011, Lionel Le Folgoc <mrpouit@ubuntu.com>
-           2007-2009, Cody A.W. Somerville <cody-somerville@ubuntu.com>
-           2006-2008, Gauvain Pocentek <gauvainpocentek@ubuntu.com>
-           2005-2008, Jani Monoses <jani@ubuntu.com>
+Copyright: 2019, Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
