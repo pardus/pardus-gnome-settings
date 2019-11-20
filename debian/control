@@ -1,7 +1,7 @@
 Source: pardus-gnome-settings
 Section: gnome
 Priority: optional
-Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
 Build-Depends: debhelper (>= 10)
 Standards-Version: 4.1.2
 Homepage: http://pardus.org.tr
