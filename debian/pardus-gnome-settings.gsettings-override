@@ -21,3 +21,6 @@ appicon-margin = 0
 appicon-padding = 0
 trans-use-custom-opacity = true
 trans-use-dynamic-opacity = true
+
+[org.gtk.Settings.FileChooser]
+sort-directories-first = true
