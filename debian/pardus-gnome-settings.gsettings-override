@@ -1,6 +1,6 @@
 [org.gnome.shell]
 favorite-apps = [ 'firefox-esr.desktop', 'thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
-enabled-extensions = [ 'desktop-icons@csoriano', 'dash-to-panel@jderose9.github.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'apps-menu@gnome-shell-extensions.gcampax.github.com', 'places-menu@gnome-shell-extensions.gcampax.github.com' ]
+enabled-extensions = [ 'desktop-icons@csoriano', 'dash-to-panel@jderose9.github.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr' ]
 
 [org.gnome.desktop.background]
 show-desktop-icons = true
