@@ -6,8 +6,8 @@ enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gm
 show-desktop-icons = true
 
 [org.gnome.desktop.interface]
-gtk-theme = 'Adwaita-dark'
-icon-theme = 'pardus-dark'
+gtk-theme = 'Adwaita'
+icon-theme = 'pardus'
 
 [org.gnome.desktop.wm.preferences]
 button-layout = ':minimize,maximize,close'
