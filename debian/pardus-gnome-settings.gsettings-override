@@ -24,3 +24,12 @@ trans-use-dynamic-opacity = true
 
 [org.gtk.Settings.FileChooser]
 sort-directories-first = true
+
+[org.gnome.shell.extensions.dash-to-dock]
+dash-max-icon-size = 32
+extend-height = true
+dock-fixed = true
+icon-size-fixed = true
+running-indicator-style = 'SEGMENTED'
+show-apps-at-top = true
+transparency-mode = 'ADAPTIVE'
