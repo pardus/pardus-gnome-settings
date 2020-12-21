@@ -1,3 +1,13 @@
+pardus-gnome-settings (2021.1) ondokuz; urgency=medium
+
+  * Update desktop-icons extension as ng
+  * Update dash extension as dock
+  * Change theme to Adwaita,pardus
+  * Add dash-to-dock preferences
+  * Add arc-menu to enabled extensions
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 21 Dec 2020 12:48:17 +0300
+
 pardus-gnome-settings (2020.1) ondokuz; urgency=medium
 
   * Update enabled extensions
