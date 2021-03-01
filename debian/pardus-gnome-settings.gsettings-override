@@ -1,6 +1,6 @@
 [org.gnome.shell]
 favorite-apps = [ 'firefox-esr.desktop', 'thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
-enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gmail.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr', 'arc-menu@pardus.org.tr' ]
+enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gmail.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr', 'arc-menu@pardus.org.tr', 'TopIcons@phocean.net' ]
 
 [org.gnome.desktop.background]
 show-desktop-icons = true
@@ -33,3 +33,6 @@ icon-size-fixed = true
 running-indicator-style = 'SEGMENTED'
 show-apps-at-top = true
 transparency-mode = 'ADAPTIVE'
+
+[org.gnome.shell.extensions.topicons]
+tray-pos = 'right'
