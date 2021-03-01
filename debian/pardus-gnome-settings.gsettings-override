@@ -1,5 +1,5 @@
 [org.gnome.shell]
-favorite-apps = [ 'firefox-esr.desktop', 'thunderbird.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
+favorite-apps = [ 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
 enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gmail.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr', 'arc-menu@pardus.org.tr', 'TopIcons@phocean.net' ]
 
 [org.gnome.desktop.background]
