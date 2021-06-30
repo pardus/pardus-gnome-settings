@@ -1,26 +1,14 @@
 [org.gnome.shell]
-favorite-apps = [ 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'pardus-store.desktop' ]
+favorite-apps = [ 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'tr.org.pardus.software.desktop' ]
 enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gmail.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr', 'arc-menu@pardus.org.tr', 'TopIcons@phocean.net' ]
 
-[org.gnome.desktop.background]
-show-desktop-icons = true
 
 [org.gnome.desktop.interface]
 gtk-theme = 'Adwaita'
-icon-theme = 'pardus'
+icon-theme = 'PardusDolunay'
 
 [org.gnome.desktop.wm.preferences]
-button-layout = ':minimize,maximize,close'
-
-[org.gnome.shell.extensions.desktop-icons]
-icon-size = 'small'
-
-[org.gnome.shell.extensions.dash-to-panel]
-panel-size = 41
-appicon-margin = 0
-appicon-padding = 0
-trans-use-custom-opacity = true
-trans-use-dynamic-opacity = true
+button-layout = 'appmenu:minimize,maximize,close'
 
 [org.gtk.Settings.FileChooser]
 sort-directories-first = true
@@ -32,7 +20,21 @@ dock-fixed = true
 icon-size-fixed = true
 running-indicator-style = 'SEGMENTED'
 show-apps-at-top = true
-transparency-mode = 'ADAPTIVE'
+transparency-mode = 'DYNAMIC'
+show-mounts = false
+show-trash = false
 
 [org.gnome.shell.extensions.topicons]
 tray-pos = 'right'
+
+[org.gnome.shell.extensions.arcmenu]
+default-menu-view = 'Categories_List'
+menu-button-appearance = 'Text'
+custom-menu-button-text = 'Applications'
+
+[org.gnome.shell.extensions.ding]
+add-volumes-opposite = false
+icon-size = 'small'
+
+[org.gnome.nautilus.icon-view]
+default-zoom-level = 'standard'

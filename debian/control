@@ -8,7 +8,6 @@ Homepage: http://pardus.org.tr
 
 Package: pardus-gnome-settings
 Architecture: all
-Pre-Depends: ${misc:Pre-Depends}, pardus-x11-settings
-Depends: ${misc:Depends}, pardus-icon-theme
+Depends: ${misc:Depends}
 Description: default settings for the Pardus GNOME desktop
  This package contains the default settings used by Pardus.
