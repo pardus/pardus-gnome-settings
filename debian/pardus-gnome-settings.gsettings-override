@@ -38,3 +38,7 @@ icon-size = 'small'
 
 [org.gnome.nautilus.icon-view]
 default-zoom-level = 'standard'
+
+[org.freedesktop.Tracker.Miner.Files]
+crawling-interval = -2
+enable-monitors = false
