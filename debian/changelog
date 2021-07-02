@@ -1,3 +1,9 @@
+pardus-gnome-settings (2021.7.1) ondokuz; urgency=medium
+
+  * Disable Tracker.Miner.Files
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Fri, 02 Jul 2021 11:57:10 +0300
+
 pardus-gnome-settings (2021.7) ondokuz; urgency=medium
 
   * Update for pardus21 gnome3.38
