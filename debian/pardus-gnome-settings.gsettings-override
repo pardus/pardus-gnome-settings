@@ -4,8 +4,8 @@ enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gm
 
 
 [org.gnome.desktop.interface]
-gtk-theme = 'Adwaita'
-icon-theme = 'PardusDolunay'
+gtk-theme = 'pardus'
+icon-theme = 'pardus'
 
 [org.gnome.desktop.wm.preferences]
 button-layout = 'appmenu:minimize,maximize,close'
