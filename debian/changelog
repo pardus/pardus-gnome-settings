@@ -1,3 +1,9 @@
+pardus-gnome-settings (2021.10) ondokuz; urgency=medium
+
+  * Update switch applications-windows keybindings
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Wed, 13 Oct 2021 10:48:35 +0300
+
 pardus-gnome-settings (2021.8) ondokuz; urgency=medium
 
   * Update themes as pardus
