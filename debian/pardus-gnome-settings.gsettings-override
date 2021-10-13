@@ -42,3 +42,9 @@ default-zoom-level = 'standard'
 [org.freedesktop.Tracker.Miner.Files]
 crawling-interval = -2
 enable-monitors = false
+
+[org.gnome.desktop.wm.keybindings]
+switch-applications = ['<Super>Tab']
+switch-applications-backward = ['<Super><Shift>Tab']
+switch-windows = ['<Alt>Tab']
+switch-windows-backward = ['<Alt><Shift>Tab']
