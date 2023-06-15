@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Gnome Templates
+Exec=/usr/bin/python3 /usr/share/pardus/gnome-settings/xdg-pardus-templates-gnome/xdg-pardus-templates-gnome
+Type=Application
+StartupNotify=false
+NoDisplay=true
+NotShowIn=XFCE;KDE;
+OnlyShowIn=GNOME;
+X-GNOME-Autostart-enabled=true
