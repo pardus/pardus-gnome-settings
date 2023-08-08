@@ -1,11 +1,6 @@
 [org.gnome.shell]
 favorite-apps = [ 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'tr.org.pardus.software.desktop' ]
-enabled-extensions = [ 'desktop-icons-ng@pardus.org.tr', 'dash-to-dock@micxgx.gmail.com', 'remove-dropdown-arrows@mpdeimos.com', 'apt-update-indicator@pardus.org.tr', 'restart-shell@pardus.org.tr', 'arc-menu@pardus.org.tr', 'TopIcons@phocean.net' ]
-
-
-[org.gnome.desktop.interface]
-gtk-theme = 'pardus'
-icon-theme = 'pardus'
+enabled-extensions = [ 'ding@rastersoft.com', 'appindicatorsupport@rgcjonas.gmail.com' ]
 
 [org.gnome.desktop.wm.preferences]
 button-layout = 'appmenu:minimize,maximize,close'
@@ -13,35 +8,9 @@ button-layout = 'appmenu:minimize,maximize,close'
 [org.gtk.Settings.FileChooser]
 sort-directories-first = true
 
-[org.gnome.shell.extensions.dash-to-dock]
-dash-max-icon-size = 32
-extend-height = true
-dock-fixed = true
-icon-size-fixed = true
-running-indicator-style = 'SEGMENTED'
-show-apps-at-top = true
-transparency-mode = 'DYNAMIC'
-show-mounts = false
-show-trash = false
-
-[org.gnome.shell.extensions.topicons]
-tray-pos = 'right'
-
-[org.gnome.shell.extensions.arcmenu]
-default-menu-view = 'Categories_List'
-menu-button-appearance = 'Text'
-custom-menu-button-text = 'Applications'
-
 [org.gnome.shell.extensions.ding]
 add-volumes-opposite = false
-icon-size = 'small'
-
-[org.gnome.nautilus.icon-view]
-default-zoom-level = 'standard'
-
-[org.freedesktop.Tracker.Miner.Files]
-crawling-interval = -2
-enable-monitors = false
+icon-size = 'standard'
 
 [org.gnome.desktop.wm.keybindings]
 switch-applications = ['<Super>Tab']
@@ -51,3 +20,6 @@ switch-windows-backward = ['<Alt><Shift>Tab']
 
 [org.gnome.desktop.peripherals.touchpad]
 tap-to-click=true
+
+[org.gnome.Console]
+theme='auto'
