@@ -1,3 +1,11 @@
+pardus-gnome-settings (2023.0) yirmiuc; urgency=medium
+
+  * Add xdg-pardus-templates-gnome
+  * Add pardus-configure package to Breaks
+  * Update default gsettings for pardus23
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Tue, 08 Aug 2023 14:56:23 +0000
+
 pardus-gnome-settings (2022.1) ondokuz; urgency=medium
 
   [ Ali Rıza KESKİN ]
