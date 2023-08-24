@@ -2,9 +2,9 @@ Source: pardus-gnome-settings
 Section: gnome
 Priority: optional
 Maintainer: Fatih Altun <fatih.altun@pardus.org.tr>
-Build-Depends: debhelper (>= 10)
-Standards-Version: 4.1.2
-Homepage: http://pardus.org.tr
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1
+Homepage: https://github.com/pardus/pardus-gnome-settings
 
 Package: pardus-gnome-settings
 Architecture: all
