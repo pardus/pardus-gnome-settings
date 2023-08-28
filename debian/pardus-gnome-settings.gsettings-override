@@ -1,6 +1,6 @@
 [org.gnome.shell]
 favorite-apps = [ 'firefox-esr.desktop', 'org.gnome.Evolution.desktop', 'org.gnome.Nautilus.desktop', 'tr.org.pardus.software.desktop' ]
-enabled-extensions = [ 'ding@rastersoft.com', 'appindicatorsupport@rgcjonas.gmail.com' ]
+enabled-extensions = [ 'ding@rastersoft.com', 'appindicatorsupport@rgcjonas.gmail.com', 'rounded-window-corners@yilozt' ]
 
 [org.gnome.desktop.interface]
 font-name = 'Ubuntu 11'
