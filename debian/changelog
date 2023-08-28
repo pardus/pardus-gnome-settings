@@ -1,3 +1,15 @@
+pardus-gnome-settings (2023.2) yirmiuc; urgency=medium
+
+  * Add default gtk-thme as adw-gtk3
+  * Add rounded-window-corners to enabled-extensions
+  * Add adw-gtk3-theme to depends
+  * Add recommended extensions
+  * Add default backgrounds
+  * Add gtk3-theme-switcher to enabled-extensions
+  * Add gtk3-theme-switcher to recommends
+
+ -- Fatih Altun <fatih.altun@pardus.org.tr>  Mon, 28 Aug 2023 19:18:17 +0300
+
 pardus-gnome-settings (2023.1) yirmiuc; urgency=medium
 
   * Update default font as ubuntu
