@@ -8,7 +8,7 @@ Homepage: https://github.com/pardus/pardus-gnome-settings
 
 Package: pardus-gnome-settings
 Architecture: all
-Depends: ${misc:Depends}, fonts-ubuntu
+Depends: ${misc:Depends}, fonts-ubuntu, adw-gtk3-theme
 Breaks: pardus-configure
 Description: default settings for the Pardus GNOME desktop
  This package contains the default settings used by Pardus.
