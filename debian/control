@@ -8,7 +8,19 @@ Homepage: https://github.com/pardus/pardus-gnome-settings
 
 Package: pardus-gnome-settings
 Architecture: all
-Depends: ${misc:Depends}, fonts-ubuntu, adw-gtk3-theme
+Depends: ${misc:Depends},
+         fonts-ubuntu,
+         adw-gtk3-theme
+Recommends: gnome-shell-extension-appindicator,
+            gnome-shell-extension-arc-menu,
+            gnome-shell-extension-caffeine,
+            gnome-shell-extension-clipboard-indicator,
+            gnome-shell-extension-dashtodock,
+            gnome-shell-extension-dash-to-panel,
+            gnome-shell-extension-desktop-icons-ng,
+            gnome-shell-extension-pano,
+            gnome-shell-extension-rounded-window-corners,
+            gnome-shell-extension-start-overlay-in-application-view
 Breaks: pardus-configure
 Description: default settings for the Pardus GNOME desktop
  This package contains the default settings used by Pardus.
