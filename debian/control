@@ -18,6 +18,7 @@ Recommends: gnome-shell-extension-appindicator,
             gnome-shell-extension-dashtodock,
             gnome-shell-extension-dash-to-panel,
             gnome-shell-extension-desktop-icons-ng,
+            gnome-shell-extension-gtk3-theme-switcher,
             gnome-shell-extension-pano,
             gnome-shell-extension-rounded-window-corners,
             gnome-shell-extension-start-overlay-in-application-view
